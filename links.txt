@@ -28,4 +28,4 @@ Misc,TeamViewer Patch,https://www.dropbox.com/s/zpyruvtfxgyofbo/64bit_TeamViewer
 Misc,BlackMagic Audio Fix,https://www.dropbox.com/s/y0b0ooeyeqhz51t/Desktop%20Video%20Installer%20v10.9.11%20%28Garbled%20Audio%29.msi?dl=1
 Misc,DisableSMBv1,https://www.dropbox.com/s/sf39x51ndeov8mn/DisableSMBv1.reg?dl=1
 Misc,Hardware Monitor,https://www.dropbox.com/s/70rzlqsfnhkysxm/hwmonitor_1.34.zip?dl=1
- 
+Misc,New Modem AIO fix,https://www.dropbox.com/s/schnd4bmlevqlfb/New%20Modem%20AIO%20Fix.zip?dl=1
