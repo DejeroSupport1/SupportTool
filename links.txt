@@ -31,6 +31,6 @@ Misc,TeamViewer Patch,https://www.dropbox.com/s/zpyruvtfxgyofbo/64bit_TeamViewer
 Misc,BlackMagic Garlbed Audio (dev build),https://www.dropbox.com/s/6m7xqwmq0r77b6w/Desktop%20Video%20Installer%20v10.9.11%20%28Garbled%20Audio%29.zip?dl=1
 Misc,DisableSMBv1,https://www.dropbox.com/s/sf39x51ndeov8mn/DisableSMBv1.reg?dl=1
 Misc,New Modem AIO fix,https://www.dropbox.com/s/schnd4bmlevqlfb/New%20Modem%20AIO%20Fix.zip?dl=1
-Misc,iPerf 2.0.5,https://www.dropbox.com/s/zuh7b89ys1aycit/iperf-2.0.5-2-win32.zip?dl=1
+Misc,iPerf 2.0.5,http://dejero.shortcm.li//iperf-2.0.5-2-win32.zip
 Misc,Hardware Monitor,https://www.dropbox.com/s/70rzlqsfnhkysxm/hwmonitor_1.34.zip?dl=1
 Misc,CPU-Z,https://www.dropbox.com/s/svsu6nfalqiln1a/cpu-z_1.86-en.zip?dl=1
