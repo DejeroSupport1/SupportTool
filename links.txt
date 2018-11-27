@@ -1,2 +1,2 @@
- -,Please download new SupportTool below,-
+x,Please download new SupportTool below,x
 <- Select,SupportTool 1.5.3,https://www.dropbox.com/s/1dp81nzsmy19od0/SupportTool-v1.5.3.exe?dl=1
