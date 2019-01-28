@@ -1,8 +1,8 @@
 # SupportTool
 
-#NOTE: As of 11/27/18, hosts will now be in the file _ _links.txt_ <- Please add new links to this file.
+#NOTE: As of 01/28/2019, hosts will now be in the file _links_.txt_ <- Please add new links to this file.
 
-#This repo contains the _"_links.txt"_ file host which can be edited.
+#This repo contains the _"links_.txt"_ file host which can be edited.
 
 #Ensure that the files are uploaded to DROPBOX only.
 
