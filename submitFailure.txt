@@ -1,2 +1,2 @@
 getFailureReq();
-return True
+return True;
