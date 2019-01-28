@@ -1,6 +1,6 @@
 # SupportTool
 
-#NOTE: As of 01/28/2019, hosts will now be in the file _links_.txt_ <- Please add new links to this file.
+#NOTE: As of 01/28/2019, hosts will now be in the file *links_.txt* <- Please add new links to this file.
 
 #This repo contains the _"links_.txt"_ file host which can be edited.
 
