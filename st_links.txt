@@ -16,7 +16,7 @@ EnGo 1.2,Intel Graphics Driver,https://www.dropbox.com/s/urczm94pcxy4o77/win64_1
 EnGo 1.2,BIOS(WinFlash_D025),https://www.dropbox.com/s/bs8ho3rq5wvgziu/EnGo1.2WinFlash_D025.zip?dl=1
 EnGo 1.0,BIOS Flasher E0103,https://www.dropbox.com/s/w364wbb3ru6vgwd/EnGoECFlash_r16812.zip?dl=1
 GoBox,Core Software,https://www.dropbox.com/s/tdi74qblquztbpd/TransmitterInstaller-32bit-5.1.0.20711.build14.msi?dl=1
-GoBox,BlackMagic,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
+GoBox,BlackMagic,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
 GoBox,Windows Patches,https://www.dropbox.com/s/ugxr62jb08j8ply/Windows%20patches.zip?dl=1
 20/20,Core Software,https://www.dropbox.com/s/sqbvcsv4rad1hdc/TransmitterInstaller-4.1.1.17567.build15.msi?dl=1
 VSET,Core Software,https://www.dropbox.com/s/7by6gwm9ur2sktf/TransmitterInstaller-32bit-5.1.0.20711.build14.msi?dl=1
