@@ -11,7 +11,7 @@ EnGo 1.0+,MC74xx Fix (enablePCOFFEN.bat),https://www.dropbox.com/s/zoi6ojnesnzp7
 EnGo 1.0,MIB 1.7 for RF Module (8xxxx),https://www.dropbox.com/s/hhwuliaaw95zdl5/Window%20Flash%20Tool_1_7.zip?dl=1
 EnGo 1.0+,MIB 1.2 for RF Module (9xxxx),https://www.dropbox.com/s/w2bs01awnmmtecl/Window%20Flash%20Tool_1_2.zip?dl=1
 EnGo 1.0,VC++ Patch,https://www.dropbox.com/s/zcxcu00eu5ihmw8/vc_redist.x64.exe?dl=1
-EnGo 1.0, .NET 4.5 Framework,https://www.dropbox.com/s/trqk1105n3k5zas/dotNetFx45_Full_setup.exe?dl=1
+EnGo 1.0, .NET 4.5 Framework,https://www.dropbox.com/s/aj6r20pk8hgfomx/dotNetFx45.exe?dl=1
 EnGo 1.2,Intel Graphics Driver,https://www.dropbox.com/s/urczm94pcxy4o77/win64_154519.4678.exe?dl=1
 EnGo 1.2,BIOS(WinFlash_D025),https://www.dropbox.com/s/bs8ho3rq5wvgziu/EnGo1.2WinFlash_D025.zip?dl=1
 EnGo 1.0,BIOS Flasher E0103,https://www.dropbox.com/s/w364wbb3ru6vgwd/EnGoECFlash_r16812.zip?dl=1
