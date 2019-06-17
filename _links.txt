@@ -1,2 +1,2 @@
-Misc,SupportTool 1.7.0 (latest),https://www.dropbox.com/s/5iolk5b7toegkw0/SupportTool-v1.7.0.exe?dl=1
-Misc,^ the latest version is 1.7.0,https://www.dropbox.com/s/5iolk5b7toegkw0/SupportTool-v1.7.0.exe?dl=1
+Misc,SupportTool 1.7.1 (latest),https://www.dropbox.com/s/0j5dzlwvhsfhrhs/SupportTool-v1.7.1.exe?dl=1
+Misc,^ the latest version is 1.7.1,https://www.dropbox.com/s/0j5dzlwvhsfhrhs/SupportTool-v1.7.1.exe?dl=1
