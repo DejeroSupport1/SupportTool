@@ -25,7 +25,7 @@ PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscove
 PathWay,MC74xx Fix (enablePCOFFEN.bat),https://www.dropbox.com/s/zoi6ojnesnzp7dh/enablePCOFFEN.bat?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
-WayPoint,Core Software 5.1.0.20711,https://www.dropbox.com/s/h34a5q6xfr2hg92/WayPointInstaller-64bit-5.1.0.20711.build16.msi?dl=1
+WayPoint,Core Software 5.1.0.21700,https://www.dropbox.com/s/jsfk7mivhbxk1v4/WayPointInstaller-64bit-5.1.0.21700.build25.msi?dl=1
 WayPoint,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
 Transceiver,Core Software 5.1.0.20711,https://www.dropbox.com/s/wat06a4ateylkh5/TransceiverInstaller-32bit-5.1.0.20711.build13.msi?dl=1
 Transceiver,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
