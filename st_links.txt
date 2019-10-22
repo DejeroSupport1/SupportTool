@@ -7,7 +7,6 @@ EnGo 1.3,BlackMagic 10.11.4 (for 1.3 units with BM),https://www.dropbox.com/s/mg
 EnGo 1.3,Intel Driver (Install FIRST before core software 5.1.1+),https://www.dropbox.com/s/mqtyrt7n5359j97/win64_25.20.100.6373.exe?dl=1
 EnGo 1.3,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 EnGo 1.3,Modem Recovery Driver,https://www.dropbox.com/s/6x0em8cd7xc5lqn/GenericDriverSetup_4836.exe?dl=1
-EnGo 1.0+,MC74xx Fix (enablePCOFFEN.bat),https://www.dropbox.com/s/zoi6ojnesnzp7dh/enablePCOFFEN.bat?dl=1
 EnGo 1.0+,MIB 1.7 for RF Module (8xxxx),https://www.dropbox.com/s/hhwuliaaw95zdl5/Window%20Flash%20Tool_1_7.zip?dl=1
 EnGo 1.0+,MIB 1.2 for RF Module (9xxxx),https://www.dropbox.com/s/w2bs01awnmmtecl/Window%20Flash%20Tool_1_2.zip?dl=1
 EnGo 1.0,VC++ Patch,https://www.dropbox.com/s/zcxcu00eu5ihmw8/vc_redist.x64.exe?dl=1
@@ -22,7 +21,6 @@ GoBox,Windows Patches,https://www.dropbox.com/s/ugxr62jb08j8ply/Windows%20patche
 VSET,Core Software 5.1.0.20711,https://www.dropbox.com/s/7by6gwm9ur2sktf/TransmitterInstaller-32bit-5.1.0.20711.build14.msi?dl=1
 PathWay,Core Software 5.1.0.20711,https://www.dropbox.com/s/hve0deirldv6kdu/PathWayInstaller-64bit-5.1.0.20711.build14.msi?dl=1
 PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscovery.reg?dl=1
-PathWay,MC74xx Fix (enablePCOFFEN.bat),https://www.dropbox.com/s/zoi6ojnesnzp7dh/enablePCOFFEN.bat?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
 WayPoint,Core Software 5.1.0.21700,https://www.dropbox.com/s/jsfk7mivhbxk1v4/WayPointInstaller-64bit-5.1.0.21700.build25.msi?dl=1
