@@ -23,11 +23,11 @@ PathWay,Core Software 5.1.0.20711,https://www.dropbox.com/s/hve0deirldv6kdu/Path
 PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscovery.reg?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
-WayPoint,Core Software 5.1.0.21700,https://www.dropbox.com/s/jsfk7mivhbxk1v4/WayPointInstaller-64bit-5.1.0.21700.build25.msi?dl=1
+WayPoint,Core Software 5.3.0.22160,https://www.dropbox.com/s/kf45ygpq2cry9m7/WayPointInstaller-64bit-5.3.0.22160.build9.msi?dl=0
 WayPoint,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
 Transceiver,Core Software 5.1.0.20711,https://www.dropbox.com/s/wat06a4ateylkh5/TransceiverInstaller-32bit-5.1.0.20711.build13.msi?dl=1
 Transceiver,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
-1U/3U Server,Core Software 5.1.0.20711,https://www.dropbox.com/s/wdl9cb3gfsqyph3/ServerInstaller-32bit-5.1.0.20711.build15.msi?dl=1
+1U/3U Server,Core Software 5.3.0.22160,https://www.dropbox.com/s/dytxt9wsu5jrp3a/ServerInstaller-32bit-5.3.0.22160.build17.msi?dl=0
 1U Server,KB4012212(64bit),https://www.dropbox.com/s/8xxgauswuv2kj21/windows6.1-kb4012212-x64_2decefaa02e2058dcd965702509a992d8c4e92b3.msu?dl=1
 1U Server,KB4012212(32bit),https://www.dropbox.com/s/e66v2z6d3gwz8vy/windows6.1-kb4012212-x86_6bb04d3971bb58ae4bac44219e7169812914df3f.msu?dl=1
 1U Server,BlackMagic 10.9.11 (64-bit 1U's only),https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
