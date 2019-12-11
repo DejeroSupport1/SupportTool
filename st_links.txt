@@ -29,6 +29,7 @@ PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
 WayPoint,Core Software 5.3.0.22160,https://www.dropbox.com/s/kf45ygpq2cry9m7/WayPointInstaller-64bit-5.3.0.22160.build9.msi?dl=1
 WayPoint,BlackMagic 11.1,https://www.dropbox.com/s/gg8y2w80ed3vwkr/Blackmagic_Desktop_Video_Windows_11.1.zip?dl=1
+Transceiver,Core Software 5.3.0.22382,https://www.dropbox.com/preview/Support/Transceiver/TransceiverInstaller-32bit-5.3.0.22382.build12.msi?dl=1
 Transceiver,Core Software 5.1.0.20711,https://www.dropbox.com/s/wat06a4ateylkh5/TransceiverInstaller-32bit-5.1.0.20711.build13.msi?dl=1
 Transceiver,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
 1U/3U Server,Core Software 5.3.0.22160,https://www.dropbox.com/s/dytxt9wsu5jrp3a/ServerInstaller-32bit-5.3.0.22160.build17.msi?dl=1
