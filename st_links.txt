@@ -19,7 +19,7 @@ EnGo 1.0,.NET 4.5 Framework,https://www.dropbox.com/s/gbpwy0xhegdsv08/dotNetFx45
 EnGo 1.2,Intel Graphics Driver,https://www.dropbox.com/s/urczm94pcxy4o77/win64_154519.4678.exe?dl=1
 EnGo 1.2,BIOS(WinFlash_D025),https://www.dropbox.com/s/bs8ho3rq5wvgziu/EnGo1.2WinFlash_D025.zip?dl=1
 EnGo 1.0,BIOS Flasher E0103,https://www.dropbox.com/s/w364wbb3ru6vgwd/EnGoECFlash_r16812.zip?dl=1
-FlexPoint,Core Software 5.3.0.22284,https://www.dropbox.com/s/z2bjrdzoieevfle/FlexPointInstaller-64bit-5.3.0.22284.build4.msi?dl=1
+FlexPoint,Core Software 5.3.0.22506,https://www.dropbox.com/s/bb4v1ipn4rqp6yi/FlexPointInstaller-64bit-5.3.0.22506.build12.msi?dl=1
 GoBox,Core Software 5.1.0.20711,https://www.dropbox.com/s/tdi74qblquztbpd/TransmitterInstaller-32bit-5.1.0.20711.build14.msi?dl=1
 GoBox,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
 GoBox,Windows Patches,https://www.dropbox.com/s/ugxr62jb08j8ply/Windows%20patches.zip?dl=1
@@ -30,12 +30,12 @@ PathWay,Core Software 5.1.0.20711,https://www.dropbox.com/s/hve0deirldv6kdu/Path
 PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscovery.reg?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
-WayPoint,Core Software 5.3.0.22160,https://www.dropbox.com/s/kf45ygpq2cry9m7/WayPointInstaller-64bit-5.3.0.22160.build9.msi?dl=1
+WayPoint,Core Software 5.3.0.22506,https://www.dropbox.com/s/8btzeqnmr8jt5i6/WayPointInstaller-64bit-5.3.0.22506.build25.msi?dl=1
 WayPoint,BlackMagic 11.1,https://www.dropbox.com/s/gg8y2w80ed3vwkr/Blackmagic_Desktop_Video_Windows_11.1.zip?dl=1
-Transceiver,Core Software 5.3.0.22382,https://www.dropbox.com/s/1fc14ok643hsg18/TransceiverInstaller-32bit-5.3.0.22382.build12.msi?dl=1
+Transceiver,Core Software 5.3.0.22506,https://www.dropbox.com/s/y47alm7b5fe8q3x/TransceiverInstaller-32bit-5.3.0.22506.build15.msi?dl=1
 Transceiver,Core Software 5.1.0.20711,https://www.dropbox.com/s/wat06a4ateylkh5/TransceiverInstaller-32bit-5.1.0.20711.build13.msi?dl=1
 Transceiver,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
-1U/3U Server,Core Software 5.3.0.22160,https://www.dropbox.com/s/dytxt9wsu5jrp3a/ServerInstaller-32bit-5.3.0.22160.build17.msi?dl=1
+1U/3U Server,Core Software 5.3.0.22506,https://www.dropbox.com/s/ra9nfws6tsxkvb0/ServerInstaller-32bit-5.3.0.22506.build32.msi?dl=1
 1U Server,KB4012212(64bit),https://www.dropbox.com/s/8xxgauswuv2kj21/windows6.1-kb4012212-x64_2decefaa02e2058dcd965702509a992d8c4e92b3.msu?dl=1
 1U Server,KB4012212(32bit),https://www.dropbox.com/s/e66v2z6d3gwz8vy/windows6.1-kb4012212-x86_6bb04d3971bb58ae4bac44219e7169812914df3f.msu?dl=1
 1U Server,BlackMagic 10.9.11 (64-bit 1U's only),https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_Desktop_Video_Windows_10.9.11.zip?dl=1
