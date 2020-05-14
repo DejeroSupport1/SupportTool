@@ -32,7 +32,7 @@ PathWay,Core Software 5.1.0.20711,https://www.dropbox.com/s/hve0deirldv6kdu/Path
 PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscovery.reg?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
-WayPoint,Core Software 5.4.0-rc-2.msi,https://www.dropbox.com/s/ab9wz24egem4raf/WayPointInstaller-x64-5.4.0-rc-2.msi?dl=1
+WayPoint,Core Software 5.3.0.22557,https://www.dropbox.com/s/piwx0edvjim81li/WayPointInstaller-64bit-5.3.0.22557.build27.msi?dl=1
 WayPoint,BlackMagic 11.1,https://www.dropbox.com/s/gg8y2w80ed3vwkr/Blackmagic_Desktop_Video_Windows_11.1.zip?dl=1
 Transceiver,Core Software 5.3.0.22506,https://www.dropbox.com/s/y47alm7b5fe8q3x/TransceiverInstaller-32bit-5.3.0.22506.build15.msi?dl=1
 Transceiver,Core Software 5.1.0.20711,https://www.dropbox.com/s/wat06a4ateylkh5/TransceiverInstaller-32bit-5.1.0.20711.build13.msi?dl=1
