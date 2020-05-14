@@ -1,3 +1,4 @@
 EnGo 1.0+,5.1.0.20754 (Aeryon) Level 2 Build,https://www.dropbox.com/s/pzod3575yg73ulr/EnGoInstaller-64bit-5.1.0.20754.build17.msi?dl=1
 1U/3U Server,5.1.0.20988 (XML issue) Level 2,https://www.dropbox.com/s/885fz31uag9uvup/ServerInstaller-32bit-5.1.0.20988.build19.msi?dl=1
 WayPoint,5.1.0.21700 (IFB Fix) Level 2,https://www.dropbox.com/s/ehytulkqbk06chc/WayPointInstaller-64bit-5.1.0.21700.build25.msi?dl=1
+WayPoint,Core Software 5.4.0-rc-2.msi,https://www.dropbox.com/s/ab9wz24egem4raf/WayPointInstaller-x64-5.4.0-rc-2.msi?dl=1
