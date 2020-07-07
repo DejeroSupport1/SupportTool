@@ -23,7 +23,9 @@ EnGo 1.2,MIB 1.7 for RF Module (8xxxx),https://www.dropbox.com/s/hhwuliaaw95zdl5
 EnGo 1.0,MIB 1.2 for RF Module (9xxxx),https://www.dropbox.com/s/w2bs01awnmmtecl/Window%20Flash%20Tool_1_2.zip?dl=1
 EnGo 1.2,MIB 1.2 for RF Module (9xxxx),https://www.dropbox.com/s/w2bs01awnmmtecl/Window%20Flash%20Tool_1_2.zip?dl=1
 EnGo 1.3,MIB 1.2 for RF Module (9xxxx),https://www.dropbox.com/s/w2bs01awnmmtecl/Window%20Flash%20Tool_1_2.zip?dl=1
-EnGo 1.0+,EnGo Modem Setup,https://www.dropbox.com/s/vxv8q4nlobnsgel/ModemFirmwareUpdateTool.zip?dl=1
+EnGo 1.0,EnGo Modem Setup,https://www.dropbox.com/s/vxv8q4nlobnsgel/ModemFirmwareUpdateTool.zip?dl=1
+EnGo 1.2,EnGo Modem Setup,https://www.dropbox.com/s/vxv8q4nlobnsgel/ModemFirmwareUpdateTool.zip?dl=1
+EnGo 1.3,EnGo Modem Setup,https://www.dropbox.com/s/vxv8q4nlobnsgel/ModemFirmwareUpdateTool.zip?dl=1
 EnGo 1.0,VC++ Patch,https://www.dropbox.com/s/zcxcu00eu5ihmw8/vc_redist.x64.exe?dl=1
 EnGo 1.0,.NET 4.5 Framework,https://www.dropbox.com/s/gbpwy0xhegdsv08/dotNetFx45.zip?dl=1
 EnGo 1.2,Intel Graphics Driver,https://www.dropbox.com/s/urczm94pcxy4o77/win64_154519.4678.exe?dl=1
