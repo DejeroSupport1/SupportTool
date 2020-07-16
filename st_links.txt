@@ -38,8 +38,7 @@ GoBox,BlackMagic 10.9.11,https://www.dropbox.com/s/3ovwmny9t8jimn6/Blackmagic_De
 GoBox,Windows Patches,https://www.dropbox.com/s/ugxr62jb08j8ply/Windows%20patches.zip?dl=1
 20/20,Core Software 4.1.1.17567,https://www.dropbox.com/s/sqbvcsv4rad1hdc/TransmitterInstaller-4.1.1.17567.build15.msi?dl=1
 VSET,Core Software 5.1.0.20711,https://www.dropbox.com/s/7by6gwm9ur2sktf/TransmitterInstaller-32bit-5.1.0.20711.build14.msi?dl=1
-PathWay,Core Software 5.3.0.22298,https://www.dropbox.com/s/rjvbax75s7cozs9/PathWayInstaller-64bit-5.3.0.22298.build18.msi?dl=1
-PathWay,Core Software 5.1.0.20711,https://www.dropbox.com/s/hve0deirldv6kdu/PathWayInstaller-64bit-5.1.0.20711.build14.msi?dl=1
+PathWay,Core Software 5.4.1.7,https://www.dropbox.com/s/v4bki17thr2ou49/PathWayInstaller-x64-5.4.1.7.msi?dl=1
 PathWay,RC Patch,https://www.dropbox.com/s/7n5ftswvyy9uvfr/DisableNetworkDiscovery.reg?dl=1
 PathWay,DisableActiveProbing.reg (Internet Explorer bug),https://www.dropbox.com/s/ex7gfnmuxi2tq2v/DisableActiveProbing.reg?dl=1
 PathWay,BlackMagic 10.11.4,https://www.dropbox.com/s/mgav6jqscnoe4pd/Blackmagic_Desktop_Video_Windows_10.11.4.zip?dl=1
