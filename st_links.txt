@@ -5,7 +5,7 @@ EnGo 1.2,Core Software 5.4.1.23,https://www.dropbox.com/s/nrnl1s6theyk24t/EnGoIn
 EnGo 1.3,Core Software 5.3.0.22345,https://www.dropbox.com/s/zhfriq2w3puqpq6/EnGoInstaller-64bit-5.3.0.22345.build21.msi?dl=1
 EnGo 1.3,Core Software 5.4.1.23,https://www.dropbox.com/s/nrnl1s6theyk24t/EnGoInstaller-x64-5.4.1.23.msi?dl=1
 EnGo 2.0,Core Software 5.3.1.22601,https://www.dropbox.com/s/r3j1el210uw0xgr/EnGoInstaller-64bit-5.3.1.22601.build4.msi?dl=1
-EnGo 2.0,Core Software 5.4.1.25,https://www.dropbox.com/s/z6ole1ro0w40fc3/EnGoInstaller-x64-5.4.1.25.msi?dl=1
+EnGo 1.0+,Core Software 5.4.1.25,https://www.dropbox.com/s/mr78nwpu3w9n1s7/EnGoInstaller-x64-5.4.1.25.msi?dl=1
 EnGo 1.0+,FWBFExclusion Patch (all EnGos),https://www.dropbox.com/s/smexh77lm4rmr97/EnGo5.0.0-FBWFExclusion-64bitSettingsKey.reg?dl=1
 EnGo 1.0,PowerBoard 1.3,https://www.dropbox.com/s/1u17ra3071w8d4i/WinFlashTool_1V3.zip?dl=1
 EnGo 1.2,PowerBoard 1.3,https://www.dropbox.com/s/1u17ra3071w8d4i/WinFlashTool_1V3.zip?dl=1
